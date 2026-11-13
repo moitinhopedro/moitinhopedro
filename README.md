@@ -103,7 +103,7 @@ Gosto de unir código, design e automação para criar sistemas que funcionam be
 <img src="https://img.shields.io/badge/Postman-0A192F?style=for-the-badge&logo=postman&logoColor=64FFDA" alt="Postman" />
 <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=00FF9C" alt="Docker" />
 <img src="https://img.shields.io/badge/Notion-0A192F?style=for-the-badge&logo=notion&logoColor=64FFDA" alt="Notion" />
-<img src="https://img.shields.io/badge/Claude-0A192F?style=for-the-badge&logo=anthropic&logoColor=00FF9C" alt="Codex" />
+<img src="https://img.shields.io/badge/Codex-0A192F?style=for-the-badge&logo=anthropic&logoColor=00FF9C" alt="Codex" />
 <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA" alt="Git" />
 
 </div>
