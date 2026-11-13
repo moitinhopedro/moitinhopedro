@@ -111,18 +111,6 @@ Gosto de unir código, design e automação para criar sistemas que funcionam be
 ---
 
 <!-- ░░░░░░░░░░░░░░░░░ BLOCO IA ░░░░░░░░░░░░░░░░░ -->
-<h2 align="center">⟦ 🧠 IA APLICADA ⟧</h2>
-
-<div align="center">
-
-```diff
-+ Chatbots e agentes inteligentes
-+ Automações com modelos de linguagem (LLMs)
-+ Classificação e extração de dados
-+ Integração de IA com n8n, APIs e sistemas Python
-```
-
-</div>
 
 ---
 
@@ -144,14 +132,7 @@ Gosto de unir código, design e automação para criar sistemas que funcionam be
 
 </div>
 
----
 
-<!-- ░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░ -->
-<h2 align="center">⟦ 🏆 TROPHIES ⟧</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moitinhopedro&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
