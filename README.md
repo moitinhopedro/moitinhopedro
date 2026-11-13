@@ -110,30 +110,6 @@ Gosto de unir código, design e automação para criar sistemas que funcionam be
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░ BLOCO IA ░░░░░░░░░░░░░░░░░ -->
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░ -->
-<h2 align="center">⟦ 📊 GITHUB ANALYTICS ⟧</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=moitinhopedro&show_icons=true&hide_border=false&bg_color=0A192F&title_color=00FF9C&text_color=CCD6F6&icon_color=64FFDA&border_color=00FF9C&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moitinhopedro&layout=compact&langs_count=8&hide_border=false&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&border_color=64FFDA" alt="Top Languages" />
-
-<br/>
-
-<img width="97%" src="https://streak-stats.demolab.com?user=moitinhopedro&theme=dark&background=0A192F&stroke=00FF9C&ring=64FFDA&fire=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF9C&sideLabels=CCD6F6&dates=8892B0&border=00FF9C" alt="GitHub Streak" />
-
-<br/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=moitinhopedro&bg_color=0A192F&color=00FF9C&line=64FFDA&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
-
-</div>
-
-
-
 ---
 
 <!-- ░░░░░░░░░░░░░░░░░ RODAPÉ ░░░░░░░░░░░░░░░░░ -->
